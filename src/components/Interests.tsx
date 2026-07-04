@@ -4,7 +4,7 @@ const interests = [
   { icon: Dumbbell, title: "Gym", desc: "Staying active and disciplined outside of coding.", color: "teal" },
   { icon: Clapperboard, title: "Movies", desc: "Always up for a good story on screen.", color: "sky" },
   { icon: Sparkles, title: "Anime", desc: "Big fan of fictional worlds and storytelling.", color: "primary-light" },
-  { icon: PersonStanding, title: "Footl", desc: "Playing whenever I get the chance.", color: "rose" },
+  { icon: PersonStanding, title: "Football", desc: "Playing whenever I get the chance.", color: "rose" },
 ];
 
 const colorMap: Record<string, { bg: string; text: string }> = {

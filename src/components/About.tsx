@@ -28,9 +28,9 @@ const features = [
 export default function About() {
   return (
     <section id="about" className="py-20 px-6 max-w-6xl mx-auto text-center">
-      <span className="badge border border-primary/40 mb-4 inline-block">About Me</span>
+      <span className="badge border border-primary/40 mb-4 inline-block">Get To Know Me</span>
       <h2 className="text-4xl font-bold mb-6">
-        Crafting Digital <span className="text-primary-light">Experiences</span>
+        About <span className="text-primary-light">Me</span>
       </h2>
       <p className="text-slate-300 max-w-2xl mx-auto leading-relaxed mb-12">
         I'm a curious and driven 4th-year student with a strong focus on
